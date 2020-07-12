@@ -4,7 +4,7 @@ A 4th year B.Tech. student and AI enthusiast who enjoys working on machine learn
 
 
 ##### How to Reach Me
-LinkedIn: https://www.linkedin.com/in/nandanprasad/     
-Portfolio Site: https://sites.google.com/view/nandanprasad/home    
+LinkedIn: https://www.linkedin.com/in/nandanprasad     
+Portfolio Site: https://sites.google.com/view/nandanprasad       
 Email: nandan.prasad@learner.manipal.edu     
 
