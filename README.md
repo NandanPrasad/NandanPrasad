@@ -2,7 +2,7 @@ Final year ECE (Minor: Data Science) student at MIT, Manipal open to work from 2
 
 
 ##### How to Reach Me
-1. [Hit me up on LinkedIn!](https://www.linkedin.com/in/nandanprasad)     
-2. :link: [Portfolio Site](https://sites.google.com/view/nandanprasad)       
-3. :email: Send me an email: <nandan.prasad@learner.manipal.edu>     
+[Hit me up on LinkedIn!](https://www.linkedin.com/in/nandanprasad)     
+:link: [Portfolio Site](https://sites.google.com/view/nandanprasad)       
+:email: Send me an email: <nandan.prasad@learner.manipal.edu>     
 
